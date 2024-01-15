@@ -1,0 +1,5 @@
+$cmd_start = '/start' 
+$cmd_joke = '/joke'
+$cmd_game = '/game'
+$cmd_stop = '/stop'
+$cmd_help = '/help'
